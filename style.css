@@ -78,9 +78,11 @@ h2 {
 }
 .skills {
   padding: 100px 120px 0;
+  margin-bottom: 80px;
 }
 .top {
-  padding: 100px 120px 0;
+  padding-top: 30px;
+  
 }
 
 .total {
